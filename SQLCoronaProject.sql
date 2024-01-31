@@ -1,4 +1,4 @@
-
+--This is my 1st project , not too bad but we are going to improve for sure
 --Covid 19 Data Exploration 
 
 Select *
