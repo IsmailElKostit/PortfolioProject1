@@ -16,7 +16,7 @@ order by 1,2
 
 
 -- Total Cases vs Total Deaths
--- Shows likelihood of dying if you contract covid 19 in your country
+-- Shows likelihood of dying if you contract covid 19 in France
 
 Select Location, date, total_cases,total_deaths, (total_deaths/total_cases)*100 as DeathPercentage
 From CoronaProject..CovidDeaths
